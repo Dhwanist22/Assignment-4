@@ -10,7 +10,7 @@
     "compile": "babel src --presets react  --out-dir public",
     "lint": "eslint . --ext js,jsx --ignore-pattern public"
   },
-  "author": "Romil Shah",
+  "author": "Dhwani Thobhani",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^6.2.0",
